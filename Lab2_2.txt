@@ -1,0 +1,51 @@
+     1  213  mkdir Submission/Lab2
+     2  214  mkdir Submission/Lab3
+     3  215  ls
+     4  216  mv Regular Others
+     5  217  ls
+     6  218  cp -r Lab2_P2 Lab2
+     7  219  cp -r /home/ykim135/Lab2_P2 Lab2
+     8  220  cp -r Lab2_P2 Lab2
+     9  221  cp Lab2_P2 Lab2
+    10  222  rm -r Lab2_P2
+    11  223  mkdir Lab2_P2
+    12  224  cp -r Lab2_P2 Lab2
+    13  225  rm -r Lab2_P2
+    14  226  history
+    15  227  history 50 > Lab2_2.txt
+    16  228  cat -n Lab2_2.txt
+    17  229  history
+    18  230  cd ~
+    19  231  mkdir Lab2_P2
+    20  232  cd Lab2_P2
+    21  233  cp /home/frondel1/public/RealEstate.csv .
+    22  234  cp/home/frondel1/public/RealEstate.csv .
+    23  235  ls
+    24  236  RealEstate.csv
+    25  237  cat -n RealEstate.csv
+    26  238  head RealEstate.csv
+    27  239  wc RealEstate.csv
+    28  240  cat RealEstate.csv
+    29  241  mkdir/home/ykim135/public
+    30  242  pwd
+    31  243  /home/ykim135/public
+    32  244  cp RealEstate.csv/home/ykim135/public/myRealEstate.csv
+    33  245  cp --hlep
+    34  246  cp RealEstate.csv /home/ykim135/public/myRealEstate.csv
+    35  247  ls /home/ykim135/public/myRealEstate.csv
+    36  248  cd /home/ykim135/public
+    37  249  cd /home/ykim135/Public
+    38  250  mkdir /home/ykim135/Public
+    39  251  cd /home/ykim135/Public
+    40  252  mkdir Regular
+    41  253  mkdir Submission
+    42  254  mkdir Submission/Lab2
+    43  255  mkdir Submission/Lab3
+    44  256  mkdir Regular Submission Submission/Lab2 Submission/Lab3
+    45  257  mv /home/ykim135/Public/Regular Others
+    46  258  cp -r /home/ykim135/Lab2_P2 Lab2
+    47  259  rm -rf Lab2_P2
+    48  260  history
+    49  261  history > Lab2_2.txt
+    50  262  history 50 > Lab2_2.txt
+
